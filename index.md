@@ -1,6 +1,6 @@
 ## Horror Modern Classics
 | Title | Year |
-|--|--|
+| -- | -- |
 | [Night of the Living Dead](https://www.rottentomatoes.com/m/night_of_the_living_dead) | 1968 |
 | [Exorcist](https://www.rottentomatoes.com/m/exorcist) | 1973 |
 | [The Wicker Man](https://www.rottentomatoes.com/m/the_wicker_man_1973) | 1973 |
@@ -42,7 +42,7 @@
 
 ## Asian Horror
 | Title | Year |
-|--|--|
+| -- | -- |
 | [Ringu (The Ring)](https://www.rottentomatoes.com/m/ringu) | 1998 | 
 | [Pulse](https://www.rottentomatoes.com/m/pulse_2005) | 2001 |
 | [Gin Gwai (The Eye)](https://www.rottentomatoes.com/m/gin_gwai_2002) | 2002 |
@@ -56,7 +56,7 @@
 
 ## Modern Horror & Horror Comedy
 | Title | Year |
-|--|--|
+| -- | -- |
 | [Blair Witch Project](https://www.rottentomatoes.com/m/blair_witch_project) | 1999 |
 | [28 Days Later](https://www.rottentomatoes.com/m/28_days_later) | 2002 |
 | [Shaun of the Dead](https://www.rottentomatoes.com/m/shaun_of_the_dead) | 2004 |
