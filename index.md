@@ -1,3 +1,8 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 ## Horror Modern Classics
 | Title | Year |
 | -- | -- |
@@ -39,6 +44,7 @@
 | [Tremors](https://www.rottentomatoes.com/m/tremors) | 1990 |
 | [Arachnophobia](https://www.rottentomatoes.com/m/arachnophobia) | 1990 |
 | [Scream](https://www.rottentomatoes.com/m/1074316-scream) | 1996 |
+{: .tablelines}
 
 ## Asian Horror
 | Title | Year |
@@ -53,6 +59,7 @@
 | [Shutter](https://www.rottentomatoes.com/m/shutter) | 2004 |
 | [Bakjwi (Thirst)](https://www.rottentomatoes.com/m/10011304-thirst) | 2009 |
 | [Chanthaly](https://www.imdb.com/title/tt2837366/) | 2012 |
+{: .tablelines}
 
 ## Modern Horror & Horror Comedy
 | Title | Year |
@@ -88,3 +95,4 @@
 | [Host](https://www.rottentomatoes.com/m/host_2020) | 2020 |
 | [The Wretched](https://www.rottentomatoes.com/m/the_wretched_2020) | 2020 |
 | [Relic](https://www.rottentomatoes.com/m/relic) | 2020 |
+{: .tablelines}
