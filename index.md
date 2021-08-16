@@ -1,4 +1,5 @@
 ## Horror Modern Classics
+
 | Title | Year |
 | -- | -- |
 | [Night of the Living Dead](https://www.rottentomatoes.com/m/night_of_the_living_dead) | 1968 |
@@ -41,6 +42,7 @@
 | [Scream](https://www.rottentomatoes.com/m/1074316-scream) | 1996 |
 
 ## Asian Horror
+
 | Title | Year |
 | -- | -- |
 | [Ringu (The Ring)](https://www.rottentomatoes.com/m/ringu) | 1998 | 
@@ -55,6 +57,7 @@
 | [Chanthaly](https://www.imdb.com/title/tt2837366/) | 2012 |
 
 ## Modern Horror & Horror Comedy
+
 | Title | Year |
 | -- | -- |
 | [Blair Witch Project](https://www.rottentomatoes.com/m/blair_witch_project) | 1999 |
